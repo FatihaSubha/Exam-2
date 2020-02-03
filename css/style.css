@@ -1,0 +1,207 @@
+
+
+
+
+h3{
+	color: #515151;
+	font-size: 31px;
+	margin-top: 10px;
+}
+p{
+	color: #b1b0b0;
+	font-size: 18px;
+}
+
+.fa.fa-home{
+	color: gray;
+}
+
+
+
+
+
+
+
+.head-nav{
+	background-color: #fff;
+	padding: 30px 0px;
+}
+.nav-link{
+		color: #989898!important;
+}
+.hero{
+	background-image: url(../img/hero.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	padding: 170px 0px;
+}
+.hero:before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background: rgb(0,0,0,0.4);
+
+}
+.hero-detail{
+	text-align: center;
+	color: #fff;
+}
+.hero-detail h1{
+	font-size: 49px;
+}
+.hero-detail h2{
+	font-size: 35px;
+	padding-top: 30px;
+}
+.hero-detail button{
+	padding: 18px 20px;
+    border-radius: 15px;
+    border: none;
+    background: #99c50a;
+    color: #fff;
+    margin-top: 49px;
+    font-size: 15px;
+}
+.white{
+	padding:100px 0px; 
+}
+.white-detail{
+	text-align: center;
+}
+.find{
+
+}
+.project-one{
+	
+    background: #c7ecf8;
+}
+.project-two{
+	background: #e7ebde;
+}
+.find-pic{
+	text-align: right;
+    padding-right: 62px;
+    margin: auto;
+}
+.find-detail{
+
+}
+.find-detail h3{
+font-size: 27px;
+    padding-top: 16px;
+}
+
+.find-detail p{
+font-size: 16px;
+    padding-bottom: 20px;
+}
+.blue-btn{
+    padding: 13px 10px;
+    border-radius: 15px;
+    border: 1px solid white;
+    border align-content: normal;
+    background: #26a6d1;
+    margin-bottom: 32px;
+}
+
+.green-btn {
+    padding: 13px 10px;
+    border-radius: 15px;
+    border: 1px solid white;
+    border align-content: normal;
+    background: #add136;
+    margin-bottom: 32px;
+}
+}
+.find-pic-two{
+    margin: 85px 0px;
+}
+.find-detail-two h3{
+
+}
+.find-detail-two p{
+	
+}
+
+
+
+
+
+
+
+
+
+
+.project{
+	padding: 70px 0px;
+}
+.project-left h4{
+	color: #4e4c4c;
+	margin-bottom: 15px;
+}
+.project-left p {
+    font-size: 16px;
+    color: gray;
+}
+.project-right button{
+	margin-top: 17px;
+    border: 1px solid gray;
+    padding: 15px 12px;
+    border-radius: 15px;
+    font-size: 14px;
+    color: darkslategray;
+}
+.card{
+	padding: 15px;
+}
+.cstm-card-head{
+position: relative;
+}
+
+.cstm-card-head h4 {
+    font-size: 17px;
+    background: #26a6d1;
+    width: 37%;
+    padding: 5px 4px;
+    border-radius: 9px;
+    position: absolute;
+    top: 44%;
+    right: 5px;
+ }
+ .cstm-card-body{
+ 	background-color: #e8e6e6;
+ }
+.cstm-card-body h5 {
+    font-size: 17px;
+    padding: 15px 10px;
+ }
+.cstm-card-body p {
+    font-size: 13px;
+    padding: 6px 10px;
+}
+.card-half p{
+	color: gray;
+}
+span{
+	    border-bottom: 1px solid #c6bcbc;
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+}
+.cstm-card-body p{
+
+}
+.arrow-icon{
+
+}
+.card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+footer{
+	padding: 10px;
+}
